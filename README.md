@@ -5,7 +5,7 @@ Figure generation and supporting calculations for the course report
 
 Written for *Introduction to LED Lighting*, taught by Prof. J. Marcos Alonso Alvarez.
 
-Christian E. Bamogo — Harbin Institute of Technology — ID 24SF04254
+Christian E. Bamogo — Harbin Institute of Technology
 
 ---
 
@@ -74,7 +74,7 @@ $$L = L_0 \left(\frac{V}{V_0}\right)^{-n} 2^{(T_0 - T)/10}, \qquad n \approx 3\t
 
 **IEEE 1789-2015 percent modulation and boundaries**
 
-$$\%Mod = 100 \cdot \frac{Max - Min}{Max + Min}$$
+$$\%\mathrm{Mod} = 100 \cdot \frac{Max - Min}{Max + Min}$$
 
 | Region | f < 90 Hz | 90 Hz ≤ f |
 |---|---|---|
